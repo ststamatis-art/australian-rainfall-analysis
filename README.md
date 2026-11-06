@@ -66,7 +66,7 @@ Each task in the notebook includes the derivation, the code, and an interpretati
 ## How to run
 
 ```bash
-git clone https://github.com/<ststamatis-art>/australian-rainfall-analysis.git
+git clone https://github.com/ststamatis-art/australian-rainfall-analysis.git
 cd australian-rainfall-analysis
 pip install -r requirements.txt
 jupyter notebook notebooks/rainfall_analysis.ipynb
